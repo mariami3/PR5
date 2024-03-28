@@ -1,0 +1,56 @@
+﻿<Window x:Class="PR5.kassir1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR5"
+        mc:Ignorable="d"
+        Title="Ticket" Height="450" Width="800">
+
+    <Grid Background="#FFE9F1F3">
+        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="372"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="ks1"  AutoGenerateColumns="False" ItemsSource ="{Binding a}" 
+SelectedItem ="{Binding TicketOrders}" Background="#FFBBCFD4" SelectionChanged="ks1_SelectionChanged">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn  Header="Номер" Binding="{Binding ID_TicketOrders}"/>
+                <DataGridTextColumn Header="Сеанс" Binding="{Binding SessionID}"/>
+                <DataGridTextColumn Header="Цена билета" Binding="{Binding TicketPrice}"/>
+                <DataGridTextColumn Header="Закуски" Binding="{Binding SnackOrdersID}"/>
+                <DataGridTextColumn Header="Количество билетов" Binding="{Binding TicketCount}"/>
+                <DataGridTextColumn Header="Дата и время брони" Binding="{Binding DateTimeBroni}"/>
+                <DataGridTextColumn Header="Статус брони" Binding="{Binding StatusBooking}"/>
+                <DataGridTextColumn Header="Номер телефона" Binding="{Binding PhoneNumber}"/>
+                <DataGridTextColumn Header="Имя" Binding="{Binding FirstName}"/>
+                <DataGridTextColumn Header="Работник" Binding="{Binding WorkerID}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox x:Name="session" Grid.Column="1" HorizontalAlignment="Left" Margin="186,43,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="price" Grid.Column="1" HorizontalAlignment="Left" Margin="146,70,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="21"/>
+        <ComboBox x:Name="orders" Grid.Column="1" HorizontalAlignment="Left" Margin="186,96,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox  x:Name="count" Grid.Column="1" HorizontalAlignment="Left" Margin="146,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="21"/>
+        <TextBox x:Name="date" Grid.Column="1" HorizontalAlignment="Left" Margin="146,151,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="21"/>
+        <TextBox x:Name="status" Grid.Column="1" HorizontalAlignment="Left" Margin="146,177,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="22"/>
+        <TextBox x:Name="number" Grid.Column="1" HorizontalAlignment="Left" Margin="146,204,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="21"/>
+        <TextBox x:Name="name" Grid.Column="1" HorizontalAlignment="Left" Margin="146,230,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="200" Height="21"/>
+        <ComboBox x:Name="worker" Grid.Column="1" HorizontalAlignment="Left" Margin="186,256,0,0" VerticalAlignment="Top" Width="120"/>
+        <Label Grid.Column="1" Content="Сеанс:" HorizontalAlignment="Left" Margin="11,41,0,0" VerticalAlignment="Top" Width="76"/>
+        <Label Grid.Column="1" Content="Цена билета:" HorizontalAlignment="Left" Margin="11,68,0,0" VerticalAlignment="Top" Width="96"/>
+        <Label Grid.Column="1" Content="Доп. закуски:" HorizontalAlignment="Left" Margin="11,94,0,0" VerticalAlignment="Top" Width="96"/>
+        <Label Grid.Column="1" Content="Кол-во билетов:" HorizontalAlignment="Left" Margin="11,121,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Grid.Column="1" Content="Дата и время брони:" HorizontalAlignment="Left" Margin="11,149,0,0" VerticalAlignment="Top" Width="130"/>
+        <Label Grid.Column="1" Content="Статус брони:" HorizontalAlignment="Left" Margin="11,176,0,0" VerticalAlignment="Top" Width="96"/>
+        <Label Grid.Column="1" Content="Номер телефона:" HorizontalAlignment="Left" Margin="11,202,0,0" VerticalAlignment="Top" Width="113"/>
+        <Label Grid.Column="1" Content="Имя" HorizontalAlignment="Left" Margin="11,230,0,0" VerticalAlignment="Top" Width="76"/>
+        <Label Grid.Column="1" Content="Статус:" HorizontalAlignment="Left" Margin="11,254,0,0" VerticalAlignment="Top" Width="76"/>
+        <Button Grid.Column="1" Content="Добавить" HorizontalAlignment="Left" Margin="146,306,0,0" VerticalAlignment="Top" Height="31" Width="160" Click="ADD_Click"/>
+        <Button Grid.Column="1" Content="Изменить" HorizontalAlignment="Left" Margin="146,342,0,0" VerticalAlignment="Top" Height="31" Width="160" Click="UPDATE_Click_1"/>
+        <Button Grid.Column="1" Content="Удалить" HorizontalAlignment="Left" Margin="146,378,0,0" VerticalAlignment="Top" Height="31" Width="160" Click="DELETE_Click_2"/>
+        <Button Grid.Column="1" Content="Назад" HorizontalAlignment="Left" Margin="19,327,0,0" VerticalAlignment="Top" Height="31" Width="68" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>

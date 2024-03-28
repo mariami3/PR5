@@ -1,0 +1,40 @@
+﻿<Window x:Class="PR5.kassir2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR5"
+        mc:Ignorable="d"
+        Title="Payments" Height="450" Width="800">
+    <Grid  Background="#FFE9F1F3">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="334"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="ks2"  AutoGenerateColumns="False" ItemsSource ="{Binding a}" 
+SelectedItem ="{Binding Payments}" Background="#FFBBCFD4" SelectionChanged="ks2_SelectionChanged">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn  Header="Номер" Binding="{Binding PaymentID}"/>
+                <DataGridTextColumn Header="Билет" Binding="{Binding TicketOrdersID}"/>
+                <DataGridTextColumn Header="Оплата" Binding="{Binding PaymentMethod}"/>
+                <DataGridTextColumn Header="Сумма" Binding="{Binding Amount}"/>
+                <DataGridTextColumn Header="Время и дата" Binding="{Binding PaymentDateTime}"/>
+
+            </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox x:Name="orders" Grid.Column="1" HorizontalAlignment="Left" Margin="151,78,0,0" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="pay" Grid.Column="1" HorizontalAlignment="Left" Margin="151,117,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155" Height="22"/>
+        <TextBox x:Name="amout" Grid.Column="1" HorizontalAlignment="Left" Margin="151,144,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155" Height="22"/>
+        <TextBox x:Name="date" Grid.Column="1" HorizontalAlignment="Left" Margin="151,171,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="155" Height="22"/>
+        <Label Grid.Column="1" Content="Билет:" HorizontalAlignment="Left" Margin="12,74,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label Grid.Column="1" Content="Оплата:" HorizontalAlignment="Left" Margin="12,115,0,0" VerticalAlignment="Top" Width="80"/>
+        <Label Grid.Column="1" Content="Сумма:" HorizontalAlignment="Left" Margin="12,144,0,0" VerticalAlignment="Top" Width="134"/>
+        <Label Grid.Column="1" Content="Дата и время оплаты:" HorizontalAlignment="Left" Margin="12,169,0,0" VerticalAlignment="Top" Width="134"/>
+        <Button Grid.Column="1" Content="Добавить" HorizontalAlignment="Left" Margin="146,306,0,0" VerticalAlignment="Top" Height="31" Width="160" Click="ADD_Click"/>
+        <Button Grid.Column="1" Content="Изменить" HorizontalAlignment="Left" Margin="146,342,0,0" VerticalAlignment="Top" Height="31" Width="160" Click="UPDATE_Click_1"/>
+        <Button Grid.Column="1" Content="Удалить" HorizontalAlignment="Left" Margin="146,378,0,0" VerticalAlignment="Top" Height="31" Width="160" Click="DELETE_Click_2"/>
+        <Button Grid.Column="1" Content="Назад" HorizontalAlignment="Left" Margin="19,327,0,0" VerticalAlignment="Top" Height="31" Width="68" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>

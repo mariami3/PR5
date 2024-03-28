@@ -1,0 +1,456 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\admin2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\admin2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\admin2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\admin2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\admin1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\admin1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\admin1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\admin1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\kassir2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\kassir2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\kassir1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\kassir1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\kassir2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\kassir2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\user.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\user1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\user1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\user2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\user2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\user3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\user3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\user3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\user3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\user2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\user2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\kassir3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\kassir3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\kassir1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\kassir1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\admin3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\admin3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\user1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\user1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\kassir.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\kassir.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\user.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\cinemadataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\cinemadataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\admin3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\admin3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|c:\\users\\\u0434\u0430\u0440\u0438\u043A\u043E\\source\\repos\\pr5\\pr5\\kassir.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86343C04-0C86-4C61-8A5E-41AB1F434274}|PR5\\PR5.csproj|solutionrelative:pr5\\kassir.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "kassir1.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir1.xaml",
+              "RelativeDocumentMoniker": "PR5\\kassir1.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir1.xaml",
+              "RelativeToolTip": "PR5\\kassir1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T14:31:33.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kassir2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir2.xaml.cs",
+              "RelativeDocumentMoniker": "PR5\\kassir2.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir2.xaml.cs",
+              "RelativeToolTip": "PR5\\kassir2.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAADwvyQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T16:49:45.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin.xaml.cs",
+              "RelativeDocumentMoniker": "PR5\\admin.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin.xaml.cs",
+              "RelativeToolTip": "PR5\\admin.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T04:46:25.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin1.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin1.xaml",
+              "RelativeDocumentMoniker": "PR5\\admin1.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin1.xaml",
+              "RelativeToolTip": "PR5\\admin1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T04:30:33.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "admin1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin1.xaml.cs",
+              "RelativeDocumentMoniker": "PR5\\admin1.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin1.xaml.cs",
+              "RelativeToolTip": "PR5\\admin1.xaml.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwEoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T06:45:51.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "admin2.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin2.xaml",
+              "RelativeDocumentMoniker": "PR5\\admin2.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin2.xaml",
+              "RelativeToolTip": "PR5\\admin2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T11:01:40.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin2.xaml.cs",
+              "RelativeDocumentMoniker": "PR5\\admin2.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin2.xaml.cs",
+              "RelativeToolTip": "PR5\\admin2.xaml.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAIwDkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T11:15:35.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "user2.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user2.xaml",
+              "RelativeDocumentMoniker": "PR5\\user2.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user2.xaml",
+              "RelativeToolTip": "PR5\\user2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T16:31:09.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "admin.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin.xaml",
+              "RelativeDocumentMoniker": "PR5\\admin.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin.xaml",
+              "RelativeToolTip": "PR5\\admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T15:31:14.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "user3.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user3.xaml",
+              "RelativeDocumentMoniker": "PR5\\user3.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user3.xaml",
+              "RelativeToolTip": "PR5\\user3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T16:31:18.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "user.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user.xaml",
+              "RelativeDocumentMoniker": "PR5\\user.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user.xaml",
+              "RelativeToolTip": "PR5\\user.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T15:31:53.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "user1.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user1.xaml",
+              "RelativeDocumentMoniker": "PR5\\user1.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user1.xaml",
+              "RelativeToolTip": "PR5\\user1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T16:31:00.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "kassir2.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir2.xaml",
+              "RelativeDocumentMoniker": "PR5\\kassir2.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir2.xaml",
+              "RelativeToolTip": "PR5\\kassir2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T14:31:44.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "user3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user3.xaml.cs",
+              "RelativeDocumentMoniker": "PR5\\user3.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user3.xaml.cs",
+              "RelativeToolTip": "PR5\\user3.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwCoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:54:31.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "user2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user2.xaml.cs",
+              "RelativeDocumentMoniker": "PR5\\user2.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user2.xaml.cs",
+              "RelativeToolTip": "PR5\\user2.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA0wCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:29:32.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "kassir3.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir3.xaml",
+              "RelativeDocumentMoniker": "PR5\\kassir3.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir3.xaml",
+              "RelativeToolTip": "PR5\\kassir3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-27T14:31:54.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "kassir1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir1.xaml.cs",
+              "RelativeDocumentMoniker": "PR5\\kassir1.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir1.xaml.cs",
+              "RelativeToolTip": "PR5\\kassir1.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwEsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T15:13:16.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "admin3.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin3.xaml",
+              "RelativeDocumentMoniker": "PR5\\admin3.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin3.xaml",
+              "RelativeToolTip": "PR5\\admin3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T09:19:57.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "user1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user1.xaml.cs",
+              "RelativeDocumentMoniker": "PR5\\user1.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user1.xaml.cs",
+              "RelativeToolTip": "PR5\\user1.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwCcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:56:33.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "kassir.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir.xaml",
+              "RelativeDocumentMoniker": "PR5\\kassir.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir.xaml",
+              "RelativeToolTip": "PR5\\kassir.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T15:31:27.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PR5\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\MainWindow.xaml",
+              "RelativeToolTip": "PR5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T15:18:00.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "user.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user.xaml.cs",
+              "RelativeDocumentMoniker": "PR5\\user.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\user.xaml.cs",
+              "RelativeToolTip": "PR5\\user.xaml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAowCoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:28:18.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PR5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PR5\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:17:58.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CinemaDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\CinemaDataSet.xsd",
+              "RelativeDocumentMoniker": "PR5\\CinemaDataSet.xsd",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\CinemaDataSet.xsd",
+              "RelativeToolTip": "PR5\\CinemaDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-03-25T15:21:45.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "admin3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin3.xaml.cs",
+              "RelativeDocumentMoniker": "PR5\\admin3.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\admin3.xaml.cs",
+              "RelativeToolTip": "PR5\\admin3.xaml.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAtwIoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T14:20:28.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "kassir.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir.xaml.cs",
+              "RelativeDocumentMoniker": "PR5\\kassir.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u0440\u0438\u043A\u043E\\source\\repos\\PR5\\PR5\\kassir.xaml.cs",
+              "RelativeToolTip": "PR5\\kassir.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAApwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T16:18:12.36Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

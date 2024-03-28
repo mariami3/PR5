@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище CinemaModelContainer" CdmEntityContainer="CinemaEntities2">
+    <EntitySetMapping Name="Halls">
+      <EntityTypeMapping TypeName="CinemaModel.Halls">
+        <MappingFragment StoreEntitySet="Halls">
+          <ScalarProperty Name="ID_Hall" ColumnName="ID_Hall" />
+          <ScalarProperty Name="HallName" ColumnName="HallName" />
+          <ScalarProperty Name="Size" ColumnName="Size" />
+          <ScalarProperty Name="ScreenType" ColumnName="ScreenType" />
+          <ScalarProperty Name="FreePlace" ColumnName="FreePlace" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Movies">
+      <EntityTypeMapping TypeName="CinemaModel.Movies">
+        <MappingFragment StoreEntitySet="Movies">
+          <ScalarProperty Name="ID_Movie" ColumnName="ID_Movie" />
+          <ScalarProperty Name="MovieName" ColumnName="MovieName" />
+          <ScalarProperty Name="Genre" ColumnName="Genre" />
+          <ScalarProperty Name="Director" ColumnName="Director" />
+          <ScalarProperty Name="Casts" ColumnName="Casts" />
+          <ScalarProperty Name="TimeMovie" ColumnName="TimeMovie" />
+          <ScalarProperty Name="Rating" ColumnName="Rating" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Payments">
+      <EntityTypeMapping TypeName="CinemaModel.Payments">
+        <MappingFragment StoreEntitySet="Payments">
+          <ScalarProperty Name="PaymentID" ColumnName="PaymentID" />
+          <ScalarProperty Name="TicketOrdersID" ColumnName="TicketOrdersID" />
+          <ScalarProperty Name="PaymentMethod" ColumnName="PaymentMethod" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="PaymentDateTime" ColumnName="PaymentDateTime" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="CinemaModel.Roles">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="ID_Role" ColumnName="ID_Role" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Sessions">
+      <EntityTypeMapping TypeName="CinemaModel.Sessions">
+        <MappingFragment StoreEntitySet="Sessions">
+          <ScalarProperty Name="ID_Session" ColumnName="ID_Session" />
+          <ScalarProperty Name="DateSession" ColumnName="DateSession" />
+          <ScalarProperty Name="TimeSession" ColumnName="TimeSession" />
+          <ScalarProperty Name="MovieID" ColumnName="MovieID" />
+          <ScalarProperty Name="HallID" ColumnName="HallID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SnackOrders">
+      <EntityTypeMapping TypeName="CinemaModel.SnackOrders">
+        <MappingFragment StoreEntitySet="SnackOrders">
+          <ScalarProperty Name="ID_SnackOrders" ColumnName="ID_SnackOrders" />
+          <ScalarProperty Name="SnackID" ColumnName="SnackID" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="TotalAmount" ColumnName="TotalAmount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Snacks">
+      <EntityTypeMapping TypeName="CinemaModel.Snacks">
+        <MappingFragment StoreEntitySet="Snacks">
+          <ScalarProperty Name="ID_Snack" ColumnName="ID_Snack" />
+          <ScalarProperty Name="SnackName" ColumnName="SnackName" />
+          <ScalarProperty Name="SnackPrice" ColumnName="SnackPrice" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StatusTicket">
+      <EntityTypeMapping TypeName="CinemaModel.StatusTicket">
+        <MappingFragment StoreEntitySet="StatusTicket">
+          <ScalarProperty Name="ID_StatusTicket" ColumnName="ID_StatusTicket" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="TicketOrdersID" ColumnName="TicketOrdersID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TicketOrders">
+      <EntityTypeMapping TypeName="CinemaModel.TicketOrders">
+        <MappingFragment StoreEntitySet="TicketOrders">
+          <ScalarProperty Name="ID_TicketOrders" ColumnName="ID_TicketOrders" />
+          <ScalarProperty Name="SessionID" ColumnName="SessionID" />
+          <ScalarProperty Name="TicketPrice" ColumnName="TicketPrice" />
+          <ScalarProperty Name="SnackOrdersID" ColumnName="SnackOrdersID" />
+          <ScalarProperty Name="TicketCount" ColumnName="TicketCount" />
+          <ScalarProperty Name="DateTimeBroni" ColumnName="DateTimeBroni" />
+          <ScalarProperty Name="StatusBooking" ColumnName="StatusBooking" />
+          <ScalarProperty Name="PhoneNumber" ColumnName="PhoneNumber" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="WorkerID" ColumnName="WorkerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Workers">
+      <EntityTypeMapping TypeName="CinemaModel.Workers">
+        <MappingFragment StoreEntitySet="Workers">
+          <ScalarProperty Name="ID_Worker" ColumnName="ID_Worker" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Position" ColumnName="Position" />
+          <ScalarProperty Name="RoleID" ColumnName="RoleID" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

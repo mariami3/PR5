@@ -1,0 +1,37 @@
+﻿<Window x:Class="PR5.user2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PR5"
+        mc:Ignorable="d"
+        Title="Snacks" Height="450" Width="800">
+    <Grid Background="#FFE9F1F3">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="432"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="us2"  AutoGenerateColumns="False" ItemsSource ="{Binding a}" 
+SelectedItem ="{Binding Snacks}" Background="#FFBBCFD4" BorderBrush="#FF7292B1" SelectionChanged="us2_SelectionChanged">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn  Header="Номер" Binding="{Binding ID_Snack}"/>
+                <DataGridTextColumn Header="Название закуски" Binding="{Binding SnackName}"/>
+                <DataGridTextColumn Header="Цена" Binding="{Binding SnackPrice}"/>
+                <DataGridTextColumn Header="Категория" Binding="{Binding Category}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBox x:Name="name" Grid.Column="1" HorizontalAlignment="Left" Margin="109,76,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="188" Height="19"/>
+        <TextBox x:Name="price" Grid.Column="1" HorizontalAlignment="Left" Margin="109,100,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="188"/>
+        <TextBox x:Name="category" Grid.Column="1" HorizontalAlignment="Left" Margin="109,123,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="188"/>
+        <Label Grid.Column="1" Content="Название:" HorizontalAlignment="Left" Margin="35,73,0,0" VerticalAlignment="Top"/>
+        <Label Grid.Column="1" Content="Цена" HorizontalAlignment="Left" Margin="35,96,0,0" VerticalAlignment="Top"/>
+        <Label Grid.Column="1" Content="Категория:" HorizontalAlignment="Left" Margin="35,119,0,0" VerticalAlignment="Top"/>
+        <Button Grid.Column="1" Content="Добавить" HorizontalAlignment="Center" Margin="0,279,0,0" VerticalAlignment="Top" Height="33" Width="126" Click="ADD_Click" Background="#FFD9E7ED" BorderBrush="#FF0C0C0C"/>
+        <Button Grid.Column="1" Content="Изменить" HorizontalAlignment="Center" Margin="0,312,0,0" VerticalAlignment="Top" Height="33" Width="126" Click="UPDATE_Click_1" Background="#FFD9E7ED" BorderBrush="#FF0C0C0C"/>
+        <Button Grid.Column="1" Content="Удалить" HorizontalAlignment="Center" Margin="0,345,0,0" VerticalAlignment="Top" Height="33" Width="126" Click="DELETE_Click_2" Background="#FFD9E7ED" BorderBrush="#FF0C0C0C"/>
+        <Button Grid.Column="1" Content="Назад" HorizontalAlignment="Left" Margin="22,300,0,0" VerticalAlignment="Top" Height="26" Width="63" Click="Button_Click_3" Background="#FFD9E7ED" BorderBrush="#FF0C0C0C"/>
+        <Button Grid.Column="1" Content="Импортировать" HorizontalAlignment="Center" Margin="0,383,0,0" VerticalAlignment="Top" Height="22" Width="244" Background="#FFD9E7ED" BorderBrush="#FF0C0C0C"/>
+
+    </Grid>
+</Window>
